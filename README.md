@@ -15,7 +15,7 @@
 - [Introduction](#Introduction)
 - [Scenario](#Scenario)
 - [Deliverables](#Deliverables)
-1. **[Ask Phase (Business Task Statement)](#Ask-Phase-(Business-Task-Statement))**
+1. **[Ask Phase (Business Task Statement)](#Ask-Phase)**
 - [Problem to Solve](#Problem-to-Solve)
 - [Question to answer](#Question-to-answer)
 - [Business Task Statement](#Business-Task-Statement)
@@ -43,7 +43,7 @@ You are a junior data analyst working on the marketing analyst team at Cyclistic
 5. Supporting visualizations and key findings.
 6. Top three recommendations based on the analysis.
 
-# Ask Phase (Business Task Statement)
+# Ask Phase
 
 In the first phase of the analysis my aim is to fully understand the stakeholders expectations, define the problem to be solved and decide which questions to answer in order to solve the problem.
 
