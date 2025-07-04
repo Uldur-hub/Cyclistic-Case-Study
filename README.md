@@ -11,6 +11,16 @@
 <br> 
 <br> 
 
+# Table of Contents
+- [Introduction](#Introduction)
+- [Scenario](#Scenario)
+- [Deliverables](#Deliverables)
+1. **[Ask Phase (Business Task Statement)](#Ask-Phase-(Business-Task-Statement))**
+- [Problem to Solve](#Problem-to-Solve)
+- [Question to answer](#Question-to-answer)
+- [Business Task Statement](#Business-Task-Statement)
+- [Key Stakeholders](#Key-Stakeholders)
+
 # Introduction
 
 Welcome to my Google Data Analytics Case Study.
